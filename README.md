@@ -3,7 +3,7 @@
 <!--
 **lucasdavip/lucasdavip** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-gomes-7591706a/)](https://www.linkedin.com/in/lucas-gomes-7591706a/)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
